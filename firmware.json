@@ -1,8 +1,5 @@
 {
     "type": "esp32FOTA_HTTP",
     "version": 2,
-    "host": "192.168.1.108",
-    //"host": "192.168.0.100",
-    "port": 80,
-    "bin": "esp32FOTA_HTTP.ino.bin"
+    "url": "https://github.com/buccaneer-jak/esp32-fota-http/blob/main/esp32FOTA_HTTP.ino.bin"
 }
