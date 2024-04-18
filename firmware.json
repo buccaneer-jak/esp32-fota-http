@@ -1,5 +1,5 @@
 {
     "type": "esp32FOTA_HTTP",
     "version": "2.0",
-    "url": "https://github.com/buccaneer-jak/esp32-fota-http/blob/main/esp32FOTA_HTTP.ino.bin"
+    "url": "https://buccaneer-jak.github.io/esp32-fota-http/esp32FOTA_HTTPS.ino.bin"
 }
